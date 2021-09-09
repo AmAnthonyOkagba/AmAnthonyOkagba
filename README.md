@@ -1,5 +1,5 @@
 <!--### Hi there 👋 -->
- <h1 align="center">Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
+ <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmAnthonyOkagba&label=Profile%20views&color=0e75b6&style=flat" alt="AmAnthonyOkagba" /> </p>
 <h3 align="center">I am Anthony Okagba, also called <i>"CapableBohz"</i>, A passionate Software Developer Focused On Backend...🚀</h3>
 <!-- **AmAnthonyOkagba/AmAnthonyOkagba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
